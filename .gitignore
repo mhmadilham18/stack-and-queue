@@ -33,4 +33,3 @@ bin/
 
 # Exclude 'com.kotlin' package
 src/com/kotlin/
-src/Main.kt
