@@ -31,6 +31,6 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-### Exclude the 'com.kotlin' package ###
+# Exclude 'com.kotlin' package
 src/com/kotlin/
 src/Main.kt
