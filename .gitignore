@@ -32,4 +32,5 @@ bin/
 .DS_Store
 
 ### Exclude the 'com.kotlin' package ###
-com/kotlin/
+src/com/kotlin/
+src/Main.kt
